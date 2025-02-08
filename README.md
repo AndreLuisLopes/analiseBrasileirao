@@ -16,3 +16,9 @@ Antes de começar, você precisará ter uma conta no Google e acesso ao **Google
 
 Desenvolvido por [André Luís de Oliveira Lopes](https://github.com/AndreLuisLopes)☕💻.  
 Achou útil? Dá uma ⭐ no repositório! Contribuições são bem-vindas, sinta-se à vontade para abrir uma issue ou enviar um PR. 🚀  
+
+## 🚀 Executar no Google Colab
+
+Clique no botão abaixo para abrir o notebook no Google Colab:
+
+[![Abrir no Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gMQH6R-jEoyEL411DIWgH6jIyjv5SUoR)
