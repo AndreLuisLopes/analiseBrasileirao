@@ -14,7 +14,8 @@ Antes de começar, você precisará ter uma conta no Google e acesso ao **Google
 
 ---
 
-Desenvolvido por [André Luís de Oliveira Lopes](https://github.com/AndreLuisLopes)☕💻.  
+Desenvolvido por André Luís Lopes
+[GitHub](https://github.com/AndreLuisLopes) • [Linkedin](https://www.linkedin.com/in/andre-luis-lopes/).  
 Achou útil? Dá uma ⭐ no repositório! Contribuições são bem-vindas, sinta-se à vontade para abrir uma issue ou enviar um PR. 🚀  
 
 ## 🚀 Executar no Google Colab
